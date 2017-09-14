@@ -1,0 +1,4 @@
+https://github.com/gumstix/live-build/wiki/Enabling-WiFi-on-Gumstix-Ubuntu
+
+sudo systemctl start systemd-nerworkd
+sudo systemctl enable systemd-nerworkd
